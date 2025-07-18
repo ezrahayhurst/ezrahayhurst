@@ -5,8 +5,8 @@
 
 <ul>
   <li>Senior iOS Developer at Sky, working on Sky News </li>
-  <li>Joined through the <a href="https://careers.sky.com/earlycareers/graduateprogrammes/">grad scheme</a>. Would recommend!</li>
-  <li>Graduated in Computer Science at the University of Leicester</li>
+  <li>Joined through the <a href="https://careers.sky.com/earlycareers/graduateprogrammes/">grad scheme</a>
+  <li>Computer Science BSc - University of Leicester</li>
 </ul>
 
 <br />
