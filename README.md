@@ -23,6 +23,7 @@
 * ES6 / TS
 
 **Know the basics of:**
+* Ruby
 * C# (Unity)
 * Scala
 * Python
